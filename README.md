@@ -1,6 +1,6 @@
 Hey there! I am Frank Corso and it's great to meet you.
 
-I am developer who works with:
+I mostly code with:
 * Python
 * PHP
 * JS
