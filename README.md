@@ -11,8 +11,7 @@ I am a data lover and developer and mostly code with:
 
 You can connect with me on:
 
-1. [My dev blog](https://frankcorso.dev)
+1. [My Website](https://frankcorso.me/)
 2. [My LinkedIn](https://www.linkedin.com/in/frank-corso/)
-3. [My dev.to](https://dev.to/fpcorso)
 
 
